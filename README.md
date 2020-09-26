@@ -36,6 +36,8 @@ A variable holds some sort of information. Whether it be a string, number.
 
 4. What is the purpose of using functions in code?
 
+A function is a block of code designed to perform a certain task.
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
